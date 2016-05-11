@@ -168,7 +168,7 @@ mvn clean install -Pbuild-jar
 
 * Put it all together
 
-	[Java code](https://github.kdc.capitalone.com/keira/Viper/blob/master/flink/src/main/java/viper/KafkaFlinkElastic.java)
+	[KafkaFlinkElastic.java](https://github.kdc.capitalone.com/keira/Viper/blob/master/flink/src/main/java/viper/KafkaFlinkElastic.java)
 	
 * Try it out
 
